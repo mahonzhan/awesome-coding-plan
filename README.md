@@ -1,4 +1,4 @@
-<img width="3380" height="1691" alt="image" src="https://github.com/user-attachments/assets/c4f40364-c24f-4ee2-9f23-f88777371eb7" /># compare-coding-plan
+# compare-coding-plan
 各厂家 Coding Plan 实际价值对比
 
 | 厂商                             | 价格/m      | 产品说明                                                                                                                                                                                                | TPS  | 模型请求/5h | 额度价值/5h   | 额度倍率/5h | 模型请求/w | 额度价值/w    | 额度倍率/w | 模型请求/m | 额度价值/m      | 额度倍率/m  |

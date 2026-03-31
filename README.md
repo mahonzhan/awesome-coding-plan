@@ -1,6 +1,6 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 # awesome-coding-plan
-各厂家 Coding Plan 实际价值对比
+各厂家 Coding Plan 实际价值对比，这里暂时不讨论效果，建议选各家的旗舰模型
 
 **周期说明**：5h 五小时，w 周，m 月
 

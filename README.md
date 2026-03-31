@@ -1,4 +1,4 @@
-# compare-coding-plan
+# awesome-coding-plan
 各厂家 Coding Plan 实际价值对比
 
 **周期说明**：5h 五小时，w 周，m 月

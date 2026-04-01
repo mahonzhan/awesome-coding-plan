@@ -42,17 +42,17 @@
 
 ## Token 压缩率
 
-这里以固定提示词（一万余字，中文占比 80% 左右）输入做测试，以 kimi-k2.5 为基准，比例越高 Token 占用越多。
+这里以固定提示词（一万余字，中文占比 80% 左右）输入做测试，以 gpt-5.4 为基准，比例越高 Token 占用越多。
 
-| 模型 | Token 数比例 |
+| 模型 | 比例 |
 | :--- | ---: |
-| kimi-k2.5 | 100.00% |
-| gemini-3.1-pro-preview | 105.40% |
-| deepseek-v3.2 | 108.31% |
-| glm-5.1 | 109.03% |
-| qwen-3.5 | 109.08% |
-| gpt-5.4 | 113.65% |
-| mimo-v2-pro | 115.00% |
-| doubao-seed-2.0-pro | 115.36% |
-| <mark>claude-sonnet-4.6</mark> | <mark>175.15%</mark> |
-| <mark>minimax-m2.7</mark> | <mark>204.21%</mark> |
+| kimi-k2.5 | 87.99% |
+| gemini-3.1-pro-preview | 92.73% |
+| deepseek-v3.2 | 95.30% |
+| glm-5.1 | 95.93% |
+| qwen-3.5 | 95.97% |
+| gpt-5.4 | 100.00% |
+| mimo-v2-pro | 101.18% |
+| doubao-seed-2.0-pro | 101.50% |
+| <mark>claude-sonnet-4.6</mark> | <mark>154.11%</mark> |
+| <mark>minimax-m2.7</mark> | <mark>179.67%</mark> |

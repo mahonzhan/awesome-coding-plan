@@ -53,7 +53,7 @@
 | gemini-3.1-pro-preview | 92.73% |
 | deepseek-v3.2 | 95.30% |
 | glm-5.1 | 95.93% |
-| qwen-3.5 | 95.97% |
+| qwen-3.5-plus | 95.97% |
 | gpt-5.4 | 100.00% |
 | mimo-v2-pro | 101.18% |
 | doubao-seed-2.0-pro | 101.50% |

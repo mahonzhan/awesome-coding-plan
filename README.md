@@ -70,6 +70,6 @@
 | Augment Code INDIE |   $20.00  |   Includes 40,000 credits    |               |  $20.00   |   1     |         
 | Kiro Pro |   $20.00  |   1,000 credits<br/>Pay-per-use overage ($0.04/credit)    |        |           |     |        |                    
 | Antigravity Google AI Pro |   $19.99  |   在我们的智能体开发平台 Google Antigravity 中，获享更高的智能体模型速率限制    |        |           |     |        |       
-| GitHub Copilot Pro |   $10.00  |   300 premium requests to use latest models, with the option to buy more<br/>Unlimited agent mode and chats with GPT-5 mini2<br/>Unlimited inline suggestions    |    1x 模型每条消息 $0.04，$12 内免费    |           |  >$12   |    >1.2    |          
+| GitHub Copilot Pro |   $10.00  |   300 premium requests to use latest models, with the option to buy more<br/>Unlimited agent mode and chats with GPT-5 mini2<br/>Unlimited inline suggestions    |    1x 模型每条消息 $0.04，$12 内免费    |   >=$12   |    >=1.2    |          
 | Zed Pro |   $10.00  |    Unlimited edit predictions<br/>$5 of tokens included<br/>Usage-based billing beyond $5    |        |     $5.00      |   0.5  | 
 | Trae Pro |   $10.00  |   $20 Basic usage + Bonus usage\nUnlimited Autocomplete     |            |   $20.00  |    2    |           

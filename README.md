@@ -58,10 +58,10 @@
 | gpt-5.4🏞️ | 100.00% |
 | mimo-v2-pro🏞️ | 101.18% |
 | doubao-seed-2.0-pro🏞️ | 101.50% |
-| <mark>claude-sonnet-4.6🏞️</mark> | <mark>154.11%</mark> |
-| <mark>minimax-m2.7</mark> | <mark>179.67%</mark> |
+| ⚠️claude-sonnet-4.6🏞️ | 154.11% |
+| ⚠️minimax-m2.7 | 179.67% |
 
-*注：🏞️表示属于多模态模型，同时支持文本和图像输入*
+*注：🏞️表示属于多模态模型，同时支持文本和图像输入，⚠️表示中文 Token 压缩率较低*
 
 ## AI IDE （Pending）
 

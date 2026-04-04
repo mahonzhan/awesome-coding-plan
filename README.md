@@ -69,7 +69,7 @@
 | Windsurf Pro |   $20.00  |       |        |           |     |        |           
 | Augment Code INDIE |   $20.00  |       |        |           |     |        |         
 | Kiro Pro |   $20.00  |       |        |           |     |        |          
-| Zed Pro |   $10.00  |    Unlimited edit predictions<br/>$5 of tokens included<br/>Usage-based billing beyond $5    |        |           |   $5.0  |    0.5    |         
+| Zed Pro |   $10.00  |    Unlimited edit predictions<br/>$5 of tokens included<br/>Usage-based billing beyond $5    |        |     $5.0      |   0.5  |           
 | Antigravity Google AI Pro |   $19.99  |       |        |           |     |        |       
 | GitHub Copilot Pro |   $10.00  |       |        |           |     |        |          
 | Trae Pro |   $10.00  |        |        |           |     |        |           

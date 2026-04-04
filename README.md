@@ -67,7 +67,7 @@
 |--------------------------------|--------------|------|---------|-----------|---------|
 | Cursor Pro |   $20.00  |   $20 of API usage each month<br/>Significantly more included usage when Auto or Composer 2 is selected   |        |      >=$20     |  >=1   | 
 | Windsurf Pro |   $20.00  |   plan includes a usage allowance measured as a daily and weekly budget, daily quota is more than 1/7 of your weekly quota<br/>8-101 messages / day for Premium Model<br/>unlimited SWE-1.5      |        |           |     |         
-| Augment Code INDIE |   $20.00  |   Includes 40,000 credits    |               |  $20.00   |   1     |         
+| Augment Code INDIE |   $20.00  |   Includes 40,000 credits    |               |  $25.00   |   1.25     |         
 | Kiro Pro |   $20.00  |   1,000 credits<br/>Pay-per-use overage ($0.04/credit)    |        |     $40.00      |   2  |                         
 | Antigravity Google AI Pro |   $19.99  |   High, generous quota, refreshed every five hours until weekly limit reached<br/>Higher weekly rate limit    |        |           |     |            
 | GitHub Copilot Pro |   $10.00  |   300 premium requests to use latest models, with the option to buy more<br/>Unlimited agent mode and chats with GPT-5 mini2<br/>Unlimited inline suggestions    |    1x 模型每条消息 $0.04，$12 内免费    |   >=$12   |    >=1.2    |          

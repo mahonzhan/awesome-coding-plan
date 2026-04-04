@@ -66,7 +66,7 @@
 | 厂商                             | 价格(mo)      | 官方说明   | 备注 | 额度价值(mo)     | 额度倍率(mo)  |
 |--------------------------------|--------------|------|---------|-----------|---------|
 | Cursor Pro |   $20.00  |   Significantly more included usage when Auto or Composer 2 is selected<br/>$20 of API usage each month   |        |           |     | 
-| Windsurf Pro |   $20.00  |   Increased quotas, including access to frontier OpenAI, Claude, and Gemini models    |        |           |     |         
+| Windsurf Pro |   $20.00  |   unlimited SWE-1.5<br/>plan includes a usage allowance measured as a daily and weekly budget, daily quota is more than 1/7 of your weekly quota    |        |           |     |         
 | Augment Code INDIE |   $20.00  |   Includes 40,000 credits    |               |  $20.00   |   1     |         
 | Kiro Pro |   $20.00  |   1,000 credits<br/>Pay-per-use overage ($0.04/credit)    |        |     $40.00      |   2  |                         
 | Antigravity Google AI Pro |   $19.99  |   High, generous quota, refreshed every five hours until weekly limit reached<br/>Higher weekly rate limit    |        |           |     |            

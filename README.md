@@ -61,6 +61,8 @@
 | <mark>claude-sonnet-4.6🏞️</mark> | <mark>154.11%</mark> |
 | <mark>minimax-m2.7</mark> | <mark>179.67%</mark> |
 
+*注：🏞️表示属于多模态模型，同时支持文本和图像输入*
+
 ## AI IDE （Pending）
 
 | 厂商                             | 价格(mo)      | 官方说明   | 备注 | 额度价值(mo)     | 额度倍率(mo)  |

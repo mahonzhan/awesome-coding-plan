@@ -67,7 +67,7 @@
 
 | 厂商                             | 价格(mo)      | 官方说明   | 备注 | 额度价值(mo)/Tokens     | 额度倍率(mo)  |
 |--------------------------------|--------------|------|---------|-----------|---------|
-| Factory Droid Pro |   $20.00  |      |    Usage-based    |          |     | 
+| Factory Droid Pro |   $20.00  |   	20 million 	Standard Tokens (10 cached tokens = 1 Standard Token)   |    Usage-based    |     ~$48     |  ~2.4   | 
 | Cursor Pro |   $20.00  |   $20 of API usage each month<br/>Significantly more included usage when Auto or Composer 2 is selected   |    Usage-based    |      >=$20     |  >=1   | 
 | Windsurf Pro |   $20.00  |   plan includes a usage allowance measured as a daily and weekly budget, daily quota is more than 1/7 of your weekly quota<br/>8-101 messages / day for Premium Model<br/>unlimited SWE-1.5      |   Quota-based     |           |     |         
 | Augment Code INDIE |   $20.00  |   Includes 40,000 credits    |     Usage-based          |  $25.00   |   1.25     |         

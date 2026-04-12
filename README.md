@@ -74,7 +74,7 @@
 | Kiro Pro |   $20.00  |   1,000 credits<br/>Pay-per-use overage ($0.04/credit)    |    Task-based    |     $40.00      |   2  |                         
 | Antigravity Google AI Pro |   $19.99  |   High, generous quota, refreshed every five hours until weekly limit reached<br/>Higher weekly rate limit    |   Quota-based     |           |     |   
 | Kilo Pass Starter |   $19.00  |  Up to 40% bonus credits |   Usage-based     |     ~$26.6      |    1.4 |   
-| OpenCode Go |   $10.00  | $12.00/5h<br/>$30.00/w<br/>$60.00/mo | Quota-based | $60.00 | 6 |
+| OpenCode Go |   $10.00  | $12.00/5h<br/>$30.00/w<br/>$60.00/mo<br/>包含 GLM-5.1, GLM-5, Kimi K2.5, MiMo-V2-Pro, MiMo-V2-Omni, MiniMax M2.5 和 MiniMax M2.7 | Quota-based | $60.00 | 6 |
 | GitHub Copilot Pro |   $10.00  |   300 premium requests to use latest models, with the option to buy more<br/>Unlimited agent mode and chats with GPT-5 mini2<br/>Unlimited inline suggestions    |    1x 模型每条消息 $0.04，$12 内免费，Message-based    |   >>$12   |    >>1.2    |          
 | Zed Pro |   $10.00  |    Unlimited edit predictions<br/>$5 of tokens included<br/>Usage-based billing beyond $5    |   Usage-based     |     $5.00/440万 Claude Sonnet 4.6      |   0.5  | 
 | Trae Pro |   $10.00  |   $20 Basic usage + Bonus usage<br/>Unlimited Autocomplete     |     Usage-based       |   $20.00  |    2    |           

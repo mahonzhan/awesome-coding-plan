@@ -71,7 +71,8 @@
 | Cursor Pro |   $20.00  |   $20 of API usage each month<br/>Significantly more included usage when Auto or Composer 2 is selected   |    Usage-based    |      >=$20     |  >=1   | 
 | Windsurf Pro |   $20.00  |   plan includes a usage allowance measured as a daily and weekly budget, daily quota is more than 1/7 of your weekly quota<br/>8-101 messages / day for Premium Model<br/>unlimited SWE-1.5      |   Quota-based     |           |     |         
 | Augment Code INDIE |   $20.00  |   Includes 40,000 credits    |     Usage-based          |  $25.00   |   1.25     |         
-| Kiro Pro |   $20.00  |   1,000 credits<br/>Pay-per-use overage ($0.04/credit)    |    Task-based    |     $40.00      |   2  |                         
+| Kiro Pro |   $20.00  |   1,000 credits<br/>Pay-per-use overage ($0.04/credit)    |    Task-based    |     $40.00      |   2  |     
+| Qoder Pro |   $20.00  | 2,000 Credits<br/>更多的对话与智能体请求数   |        |          |     |  
 | Antigravity Google AI Pro |   $19.99  |   High, generous quota, refreshed every five hours until weekly limit reached<br/>Higher weekly rate limit    |   Quota-based     |           |     |   
 | Kilo Pass Starter |   $19.00  |  Up to 40% bonus credits |   Usage-based     |     ~$26.6      |    1.4 |   
 | OpenCode Go |   $10.00  | $12.00/5h<br/>$30.00/w<br/>$60.00/mo<br/>包含 GLM-5.1, GLM-5, Kimi K2.5, MiMo-V2-Pro, MiMo-V2-Omni, MiniMax M2.5 和 MiniMax M2.7 | Quota-based | $60.00 | 6 |

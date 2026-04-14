@@ -38,6 +38,7 @@
 | 火山方舟 Coding Plan Lite（doubao-seed-2.0-pro）            |  ￥40.00   | 数倍于 Claude Pro plan 的用量 | 86.6 | 148/1000万     |  ￥19.00   | 0.48    | 1138/7500万   |  ￥146.00  | 3.65   | 6275/3.2亿   |  ￥607.00    | 15.18   |
 | GLM Coding Plan Lite（使用海外版订阅测试 glm-5.1）|  ￥49.00   | 3x Claude Pro 用量额度<br/>每 5 小时限额  最多约 80 次 prompts<br/>每周限额 最多约 400 次 prompts |   26.8   |    90/600万     |    ￥11.66       |  0.24   |      600/3200万  |     ￥62.19      |  1.27    |   2400/1.28亿   |       ￥248.76      |   5.08  |
 | Fireworks Fire Pass（kimi-k2.5-turbo）|  $7/w*4   |   with no per-token charges for kimi-k2.5-turbo  |      |         |           |     |        |           |      |     |             |     |
+| Nvidia |  免费   |   kimi-k2.5/minimax-m2.7/glm5 Up to 40 rpm 不限量使用  |      |         |           |     |        |           |      |     |             |     |
 | Xiaomi MiMo Token Plan Lite（非实测数据） |  ￥39.00   | 60,000,000 Credits 套餐月总量<br/>MiMo-V2-Pro 256k 上下文： 2x（消耗 1 Token = 2 Credits） |      |    /     |    /       |  /   |      /  |     /      |  /    |   ?/3000万   |      ?       |  ?   |
 
 

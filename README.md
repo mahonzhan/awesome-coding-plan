@@ -88,3 +88,7 @@
 | [Zed Pro](https://zed.dev/pricing) |   $10.00  |    Unlimited edit predictions<br/>$5 of tokens included<br/>Usage-based billing beyond $5<br/>14-day free trial. No credit card required.    |   Usage-based     |     $5.00/440万 Claude Sonnet 4.6      |   0.5  | 
 | [Trae Pro](https://www.trae.ai/pricing) |   $10.00  |   $20 Basic usage + Bonus usage<br/>Unlimited Autocomplete<br/>Free for 7 days.     |     Usage-based       |   $20.00  |    2    |      
 | [CodeBuddy 个人专业版](https://www.codebuddy.cn/pricing) |   ￥59.00  |    每月 2000 Credits（含体验版 500 Credits）    |     Usage-based       |    |        | 
+
+---
+
+*如果你在做 Agent Harness 研究，可以关注我的另外一个项目 [Awesome Agent Harness](https://github.com/mahonzhan/awesome-agent-harness)*

@@ -23,9 +23,13 @@
   - **特点**：目前最实惠、额度限制最小、倍率最高，套餐包含 TTS 和图像生成（个人 ￥29 Starter 够用，但没有 TTS 和图像生成）
   - **劣势**：MiniMax M2.7 和 GLM 5.1 一样，并不是多模态模型，只支持文本输入
   
-- 👥 **开发团队推荐：`Kimi Code Allegretto` (￥199/月)**
-  - **特点**：支持多模态（图像输入），模型代码能力更优，较高强度的日常开发够用，送专属龙虾；如果团队使用量增加，可多买几个 ￥199 套餐，或升级至 ￥699 套餐（不如买 3 个 ￥199 套餐划算）
+- 👥 **团队综合使用推荐：`Kimi Code Allegretto` (￥199/月)**
+  - **特点**：支持多模态（图像输入），模型代码能力更优，较高强度的日常开发够用，送专属龙虾；如果团队使用量增加，可多买几个 ￥199 套餐，或升级至 ￥699 套餐（不如买 3 个 ￥199 套餐划算），不需要抢
   - **劣势**：¥49 套餐毫无性价比，¥199 套餐倍率也一般
+  - 
+- 💻 **开发团队推荐：`GLM Coding Plan Pro` (￥149/月)**
+  - **特点**：模型代码能力最强
+  - **劣势**：不支持多模态，¥49 套餐毫无性价比，¥149 套餐倍率也较差，很难抢到
 
 ---
 
@@ -42,6 +46,7 @@
 | [阿里云 Coding Plan Lite 基础套餐](https://www.aliyun.com/benefit/scene/codingplan)（已下线, qwen-3.5-plus） |  ￥40.00   | 每月请求额度至高 18,000 次<br/>最多 1,200 次/每 5 小时<br/>最多 9,000 次/每周<br/>最多 18,000 次/每月 | 52.5 | 1179/4000万    |  ￥52.83   | 1.32    | 8842/3亿   |  ￥396.00  | 9.90   | 17684/6亿  |  ￥792.00    | 19.80   |
 | [火山方舟 Coding Plan Lite](https://www.volcengine.com/activity/codingplan)（doubao-seed-2.0-pro）            |  ￥40.00   | 数倍于 Claude Pro plan 的用量 | 86.6 | 148/1000万     |  ￥19.00   | 0.48    | 1138/7500万   |  ￥146.00  | 3.65   | 6275/3.2亿   |  ￥607.00    | 15.18   |
 | [GLM Coding Plan Lite](https://bigmodel.cn/glm-coding)（使用海外版订阅测试 glm-5.1）|  ￥49.00   | 3x Claude Pro 用量额度<br/>每 5 小时限额  最多约 80 次 prompts<br/>每周限额 最多约 400 次 prompts |   26.8   |    90/600万     |    ￥11.66       |  0.24   |      600/3200万  |     ￥62.19      |  1.27    |   2400/1.28亿   |       ￥248.76      |   5.08  |
+| [GLM Coding Plan Pro](https://bigmodel.cn/glm-coding)（glm-5.1）|  ￥149.00   | 5x Lite 用量额度<br/>最多约 400 次 prompts<br/>最多约 2000 次 prompts |   26.8   |    450/3000万     |    ￥58.3       |  0.39   |      3000/1.6亿  |     ￥310.95      |   2.09   |   12000/6.4亿   |       ￥1243.8      |   8.35  |
 | [Fireworks Fire Pass](https://app.fireworks.ai/fire-pass)（kimi-k2.5-turbo）|  $7/w*4   |   with no per-token charges for kimi-k2.5-turbo  |      |         |           |     |        |           |      |     |             |     |
 | [Xiaomi MiMo Token Plan Lite](https://platform.xiaomimimo.com/#/token-plan)（非实测数据） |  ￥39.00   | 60,000,000 Credits 套餐月总量<br/>MiMo-V2-Pro 256k 上下文： 2x（消耗 1 Token = 2 Credits） |      |    /     |    /       |  /   |      /  |     /      |  /    |   ?/3000万   |      ?       |  ?   |
 

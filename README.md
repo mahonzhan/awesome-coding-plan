@@ -25,7 +25,7 @@
   
 - 👥 **团队综合使用推荐：`Kimi Code Allegretto` (￥199/月)**
   - **特点**：支持多模态（图像输入），模型代码能力更优，较高强度的日常开发够用，送专属龙虾；如果团队使用量增加，可多买几个 ￥199 套餐，或升级至 ￥699 套餐（不如买 3 个 ￥199 套餐划算），不需要抢
-  - **劣势**：¥49 套餐毫无性价比，¥199 套餐倍率也一般
+  - **劣势**：¥49 套餐毫无性价比，¥199 套餐倍率也一般，升级 kimi-k2.6 后不太稳定容易死循环（有待观察）
 
 - 💻 **开发团队推荐：`GLM Coding Plan Pro` (￥149/月)**
   - **特点**：模型代码能力国内最强
@@ -42,8 +42,8 @@
 | [Ollama Free](https://ollama.com/pricing) (minimax-m2.7) |  免费   |   glm-4.7/minimax-m2.7/qwen3.5<br/>预估费用可能有水份，因为测试发现 cache 并未生效 |  /   |  453/1234万   |  $4.19   |  /   |  1365/3716万  |  $12.62   |  /  |  5460/1.48亿 |    $50.48     |  /  |
 | [NVIDIA NIM](https://build.nvidia.com) (glm-4.7) |  免费   |   glm-5/glm-4.7/minimax-m2.7 等开源模型 Up to 40 rpm 不限量使用  |      |         |           |     |        |           |      |     |             |     |
 | [MiniMax Coding Plan Plus](https://platform.minimaxi.com/subscribe/token-plan) （minimax-m2.7）      |  ￥49.00   | 1500次模型调用 / 5 小时 | 52.6 | 1360/6000万    |  ￥108.60  | 2.22    | 13600/6亿      | ￥1086         | 22.2     | 54400/24亿   |  ￥4344 |   88.65|
-| [Kimi Code Andante](https://www.kimi.com/membership/pricing) （kimi-k2.5）             |  ￥49.00   | Kimi Code 可调用| 40.6 | 359/1500万     |  ￥21.46   | 0.44    | 639/2100万    |  ￥30.34   | 0.62   | 2556/8400万   |  ￥121.36    | 2.48    |
-| [Kimi Code Allegretto](https://www.kimi.com/membership/pricing)（kimi-k2.5）           |  ￥199.00  | Kimi Code 20 倍额度  |  40.6    |  1307/6500万       |    ￥89.67       |    0.45     | 9073/3.57亿   |  ￥492.00  | 2.47   | 36292/14.28亿  |  ￥1,968.00  | 9.89    |
+| [Kimi Code Andante](https://www.kimi.com/membership/pricing) （kimi-k2.5）             |  ￥49.00   | Kimi Code 可调用| 20.1 | 359/1500万     |  ￥21.46   | 0.44    | 639/2100万    |  ￥30.34   | 0.62   | 2556/8400万   |  ￥121.36    | 2.48    |
+| [Kimi Code Allegretto](https://www.kimi.com/membership/pricing)（kimi-k2.5）           |  ￥199.00  | Kimi Code 20 倍额度  |  20.1    |  1307/6500万       |    ￥89.67       |    0.45     | 9073/3.57亿   |  ￥492.00  | 2.47   | 36292/14.28亿  |  ￥1,968.00  | 9.89    |
 | [阿里云 Coding Plan Lite 基础套餐](https://www.aliyun.com/benefit/scene/codingplan)（已下线, qwen-3.5-plus） |  ￥40.00   | 每月请求额度至高 18,000 次<br/>最多 1,200 次/每 5 小时<br/>最多 9,000 次/每周<br/>最多 18,000 次/每月 | 52.5 | 1179/4000万    |  ￥52.83   | 1.32    | 8842/3亿   |  ￥396.00  | 9.90   | 17684/6亿  |  ￥792.00    | 19.80   |
 | [火山方舟 Coding Plan Lite](https://www.volcengine.com/activity/codingplan)（doubao-seed-2.0-pro）            |  ￥40.00   | 数倍于 Claude Pro plan 的用量 | 86.6 | 148/1000万     |  ￥19.00   | 0.48    | 1138/7500万   |  ￥146.00  | 3.65   | 6275/3.2亿   |  ￥607.00    | 15.18   |
 | [GLM Coding Plan Lite](https://bigmodel.cn/glm-coding)（使用海外版订阅测试 glm-5.1）|  ￥49.00   | 3x Claude Pro 用量额度<br/>每 5 小时限额  最多约 80 次 prompts<br/>每周限额 最多约 400 次 prompts |   26.8   |    90/600万     |    ￥11.66       |  0.24   |      600/3200万  |     ￥62.19      |  1.27    |   2400/1.28亿   |       ￥248.76      |   5.08  |

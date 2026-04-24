@@ -16,7 +16,7 @@
 ## 💡 核心选购建议
 
 - 🎁 **个人想免费白嫖: `NVIDIA NIM`**
-  - **特点**：glm-5/glm-4.7/minimax-m2.7 等开源模型，速率限制 Up to 40 rpm 速度无保证，不限量免费使用 [点此直达](https://build.nvidia.com/) 
+  - **特点**：glm-5.1/glm-4.7/minimax-m2.7 等开源模型，速率限制 Up to 40 rpm 速度无保证，不限量免费使用 [点此直达](https://build.nvidia.com/) 
   - **劣势**：无稳定性保证，首Token时间通常较高，速度因模型而异，部分模型为量化版本，注意甄别，免费不可持续
 
 - 🏆 **养龙虾性价比首选：`MiniMax Coding Plan Plus` (￥49/月)**

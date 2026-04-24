@@ -64,6 +64,8 @@
 | kimi-k2.5🏞️ |1T A32B| 256K| 87.99% |
 | gemini-3.1-pro-preview🏞️ || 1M | 92.73% |
 | deepseek-v3.2 | 671B A37B | 128K | 95.30% |
+| deepseek-v4-flash | 284B A13B | 1M |  |
+| deepseek-v4-pro | 1.6T A49B | 1M |  |
 | glm-4.7 |355B A32B| 200K | 95.93% |
 | glm-5.1 |744B A40B| 200K | 95.93% |
 | qwen-3.5-plus🏞️ |397B A17B| 1M | 95.97% |

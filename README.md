@@ -17,7 +17,7 @@
 
 尽量考虑算力相对充裕的厂商，额度再差也比天天 429 报错强，如果难以忍受 Coding Plan 的 429，可以直接选择 DeepSeek V4 Flash 按用量计费
 
-- 🎁 **个人想免费白嫖: `NVIDIA NIM`**
+- 🎁 **个人想免费白嫖: `NVIDIA NIM` (其他选择 OpenRouter/OpenCode/Ollama Free 模型选择有限)**
   - **特点**：glm-5.1/glm-4.7/minimax-m2.7 等开源模型，速率限制 Up to 40 rpm 速度无保证，不限量免费使用 [点此直达](https://build.nvidia.com/) 
   - **劣势**：无稳定性保证，首Token时间通常较高，速度因模型而异，部分模型为量化版本，注意甄别，免费不可持续
 

@@ -2,6 +2,8 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
+[在线预览](https://mahonzhan.github.io/awesome-coding-plan/)
+
 > 各大模型/云厂商 Coding Plan 实际价值对比
 
 > *注：本文不会讨论模型的具体智力水平，只建议使用各家的旗舰模型，且如果有数据安全性要求，不允许数据被用于训练，不建议购买 Coding Plan*

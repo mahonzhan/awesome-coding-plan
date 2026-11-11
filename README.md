@@ -48,7 +48,7 @@
 | [Claude Pro](https://claude.ai/upgrade) (Claude Code claude-opus-4.8)       |  $20.00   | 2026-5-6 后 5h 额度翻倍, 5-13 至 8-31 周额度增加 50%（统计数据为额度增加后的统计数据）  | /    | 359/3966万     |  $31.84   | 1.59    | 3590/3.97亿  |  $318.4  |  15.9  | 14360/15.88亿  |  $1273.6       | 63.6   |
 | [Claude Pro](https://claude.ai/upgrade) (Claude Code claude-fabel-5.2 更新于 11-11)       |  $20.00   | More usage than Free<br/>fabel 只有 50% 周额度<br/>该结果只评估仅用 fabel 的额度情况  | /    | 2625万   |  $17.45   | 0.8725    |  9722万（50% 周额度） |  $64.63  |  3.23  | 3.89亿  |  $258.52       | 12.9   |
 | [ChatGPT Plus](https://chatgpt.com/pricing) (Codex gpt-5.6-sol)           |  $20.00 | 45-225 Local Messages* / 5h | /    | /    |  /   | /    | 2190/1.54亿   |  $109.12   | 5.46   | 8760/6.16亿  |  $436.48       | 21.82   |
-| [X Premium](https://x.ai/pricing) (grok grok-4.7)           |  $30.00 | 4x more usage compared to Plus | /    | /    |  /   | /    | 2.94亿   |  $231   | 7.7  | 11.76亿  |  $924       | 30.8   |
+| [X Premium](https://x.ai/pricing) (grok grok-4.7 更新于 11-3)           |  $30.00 | 4x more usage compared to Plus | /    | /    |  /   | /    | 2.94亿   |  $231   | 7.7  | 11.76亿  |  $924       | 30.8   |
 | [Ollama Pro](https://ollama.com/pricing) |  $20   |   includes $60 of monthly usage |  /   |  /   |  /   |  /   |  /  |  /   |  /  |  / |    $60     |  3  |
 | [OpenCode Go](https://opencode.ai/go) |   $10.00 (首月 $5)  | 包含 GLM-5.1, Kimi K2.6, MiMo-V2.5-Pro, DeepSeek V4 Pro, Qwen3.6 Plus 和 MiniMax M2.7 等 | / |   /  |  $12   |  1.2   |  /  |  $30   |  3  |  / |    $60     |  6  |
 | [OpenRouter](https://openrouter.ai) |  部分模型限免 50 reqs/day   |  hy3-preview/minimax-m2.5/qwen3-coder 等模型限免  |      |         |           |     |        |           |      |     |             |     |
@@ -61,7 +61,7 @@
 | [GLM Coding Plan Lite](https://bigmodel.cn/glm-coding)（使用海外版订阅测试 glm-5.1）|  ￥49.00   | 3x Claude Pro 用量额度<br/>每 5 小时限额  最多约 80 次 prompts<br/>每周限额 最多约 400 次 prompts |   26.8   |    90/600万     |    ￥11.66       |  0.24   |      600/3200万  |     ￥62.19      |  1.27    |   2400/1.28亿   |       ￥248.76      |   5.08  |
 | [GLM Coding Plan Pro](https://bigmodel.cn/glm-coding)（glm-5.1）|  ￥149.00   | 5x Lite 用量额度<br/>最多约 400 次 prompts<br/>最多约 2000 次 prompts |   26.8   |    450/3000万     |    ￥58.3       |  0.39   |      3000/1.6亿  |     ￥310.95      |   2.09   |   12000/6.4亿   |       ￥1243.8      |   8.35  |
 | [Fireworks Fire Pass](https://app.fireworks.ai/fire-pass)（kimi-k2.6-turbo）|  $7/w*4   |   with no per-token charges for kimi-k2.6-turbo  |      |         |           |     |        |           |      |     |             |     |
-| [Hy Token Plan Lite](https://console.cloud.tencent.com/tokenhub/tokenplan) (hy4)|  ￥28   | 每订阅月 560 积分，约 70 轮问答式交互 |      |         |          |    |        |           |      |   7316万   |      ￥112       |  4   |
+| [Hy Token Plan Lite](https://console.cloud.tencent.com/tokenhub/tokenplan) (hy4 更新于 11-4)|  ￥28   | 每订阅月 560 积分，约 70 轮问答式交互 |      |         |          |    |        |           |      |   7316万   |      ￥112       |  4   |
 | [Xiaomi MiMo Token Plan Pro](https://platform.xiaomimimo.com/#/token-plan) (mimo-v2.5-pro)|  ￥329.00   | 380亿 Credits 套餐月总量 |   46.7   |         |          |    |        |           |      |   13亿   |      ￥381       |  1.12   |
 
 

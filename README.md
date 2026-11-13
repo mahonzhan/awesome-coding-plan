@@ -55,6 +55,7 @@
 | [X Premium](https://x.ai/pricing) (grok grok-4.7 更新于 2026-11-3)           |  $30.00 | 4x more usage compared to Plus | /    | /    |  /   | /    | 2.94亿   |  $231   | 7.7  | 11.76亿  |  $924       | 30.8   |
 | [Ollama Pro](https://ollama.com/pricing) |  $20   |   includes $60 of monthly usage |  /   |  /   |  /   |  /   |  /  |  /   |  /  |  / |    $60     |  3  |
 | [OpenCode Go](https://opencode.ai/go) |   $10.00 (首月 $5)  | 包含 GLM-5.1, Kimi K2.6, MiMo-V2.5-Pro, DeepSeek V4 Pro, Qwen3.6 Plus 和 MiniMax M2.7 等 | / |   /  |  $12   |  1.2   |  /  |  $30   |  3  |  / |    $60     |  6  |
+| [Standard Compute Starter](https://standardcompute.com/pricing) | $19.00 | 通过供应商比价与智能路由提高编程 Agent 的算力性价比；每月 $20 平台计算预算，耗尽后暂停。兼容 OpenAI / Anthropic API；第三方零售价等值未测定 | / | / | / | / | / | / | / | / | / | / |
 | [OpenRouter](https://openrouter.ai) |  部分模型限免 50 reqs/day   |  hy3-preview/minimax-m2.5/qwen3-coder 等模型限免  |      |         |           |     |        |           |      |     |             |     |
 | [NVIDIA NIM](https://build.nvidia.com) (glm-4.7) |  免费   |   deepseek-v4-pro/glm-5.1/glm-4.7/deepseek-v4-flash/minimax-m2.7 等开源模型 Up to 40 rpm 不限量使用  |      |         |           |     |        |           |      |     |             |     |
 | [MiniMax Coding Plan Plus](https://platform.minimaxi.com/subscribe/token-plan) （minimax-m2.7）      |  ￥49.00   | 1500次模型调用 / 5 小时（目前已改套餐，该数据为老数据） | 52.6 | 1360/6000万    |  ￥108.60  | 2.22    | 13600/6亿      | ￥1086         | 22.2     | 54400/24亿   |  ￥4344 |   88.65|

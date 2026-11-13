@@ -136,6 +136,10 @@
 
 *如果你也在做 Agent Harness 研究，可以关注我的另外一个项目 [Awesome Agent Harness](https://github.com/mahonzhan/awesome-agent-harness)*
 
+## 🔖 额度追踪与折扣情报
+
+- **[TokenMost](https://tokenmost.com)**: AI 大模型免费额度与折扣码情报站。每日人工核验各平台免费额度、折扣码与试用活动（覆盖国产与海外大模型官方、聚合平台、算力服务），每条情报标注来源链接与核实日期，过期自动下架。附额度比价计算器与一键接入代码生成。配合本仓库的套餐对比食用，选完套餐记得去领免费额度。
+
 ## Star History
 
 <a href="https://www.star-history.com/?repos=mahonzhan%2Fawesome-agent-harness&type=date&legend=top-left">

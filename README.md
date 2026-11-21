@@ -15,32 +15,6 @@
 
 ---
 
-## 💡 核心选购建议
-
-尽量考虑算力相对充裕的厂商，额度再差也比天天 429 报错强，如果难以忍受 Coding Plan 的 429，可以直接选择 DeepSeek V4 Flash 按用量计费，Token Plan 通常性价比远低于 Coding Plan 一般情况下不推荐（MiniMax 例外）
-
-- 🎁 **个人想免费白嫖: `NVIDIA NIM` (其他 OpenCode/Ollama/OpenRouter Free 模型选择有限)**
-  - **特点**：deepseek-v4-pro/glm-5.1/glm-4.7/deepseek-v4-flash/minimax-m2.7 等开源模型，速率限制 Up to 40 rpm 速度无保证，不限量免费使用 [点此直达](https://build.nvidia.com/) 
-  - **劣势**：无稳定性保证，首Token时间通常较高，速度因模型而异，部分模型为量化版本，注意甄别，免费不可持续
-
-- 💰 **按用量计费首选：`DeepSeek V4 Flash`**
-  - **特点**：在认可该模型效果前提下，性价比最高模型，同等 Token 用量下，DeepSeek V4 Flash 的按量计费比大部分 Coding Plan 都便宜。速度稳定在 50 TPS 以上，1M 上下文
-  - **劣势**：不支持多模态
- 
-- 🇺🇸 **海外版顶级商业模型 Coding ChatGPT Plus/Claude Pro 之外性价比较高的选择：`Ollama Pro` ($20/月)、`OpenCode Go` ($10/月)**
-  - **特点**：Ollama Pro 倍率大约为 10，OpenCode Go 倍率大约为 6，含大部分顶级开源模型，值得一试
-  - **劣势**：模型和倍率均不如 ChatGPT Plus/Claude Pro
-  
-- 👥 **团队综合使用推荐：`Kimi Code Allegretto` (￥199/月)**
-  - **特点**：支持多模态（图像输入），模型代码能力更优，较高强度的日常开发够用，送专属龙虾，不需要抢
-  - **劣势**：¥49 套餐毫无性价比，¥199 套餐倍率也一般，最近算力紧张，TPS 大幅下降，升级 kimi-k2.6 后不太稳定容易死循环（有待观察）,429 错误频繁
-
-- 💻 **团队开发推荐：`GLM Coding Plan Pro` (￥149/月)**
-  - **特点**：模型代码能力国内最强
-  - **劣势**：GLM 5.1 不支持多模态，¥49 套餐毫无性价比，¥149 套餐倍率也较差，算力紧缺，429 错误频繁，同时也很难抢到
-
----
-
 ## 📊 数据对比 (TL;DR)
 
 | 厂商                             | 价格(mo)      | 官方说明   | TPS  | 模型请求数/Tokens(5h) | 额度价值(5h)   | 额度倍率(5h) | 模型请求数/Tokens(w) | 额度价值(w)    | 额度倍率(w) | 模型请求数/Tokens(mo) | 💰额度价值(mo)     | ⏫额度倍率(mo)  |

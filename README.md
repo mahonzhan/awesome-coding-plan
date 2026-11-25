@@ -38,8 +38,8 @@
 | [GLM Coding Plan Lite](https://bigmodel.cn/glm-coding)（使用海外版订阅测试 glm-5.1）|  ￥49.00   | 3x Claude Pro 用量额度<br/>每 5 小时限额  最多约 80 次 prompts<br/>每周限额 最多约 400 次 prompts |   26.8   |    90/600万     |    ￥11.66       |  0.24   |      600/3200万  |     ￥62.19      |  1.27    |   2400/1.28亿   |       ￥248.76      |   5.08  |
 | [GLM Coding Plan Pro](https://bigmodel.cn/glm-coding)（glm-5.1）|  ￥149.00   | 5x Lite 用量额度<br/>最多约 400 次 prompts<br/>最多约 2000 次 prompts |   26.8   |    450/3000万     |    ￥58.3       |  0.39   |      3000/1.6亿  |     ￥310.95      |   2.09   |   12000/6.4亿   |       ￥1243.8      |   8.35  |
 | [Fireworks Fire Pass](https://app.fireworks.ai/fire-pass)（kimi-k2.6-turbo）|  $7/w*4   |   with no per-token charges for kimi-k2.6-turbo  |      |         |           |     |        |           |      |     |             |     |
-| [MiniMax M Plan Go](https://www.minimax.cn/m-plan) （minimax-m3.1-flash 更新于 2026-11-25）      |  ￥49.00   | 更多用量 | / |   4939.65 万  |  $0.97  |  0.133   |   4.94亿    |     $9.7     |   1.33   |  19.76亿  | $38.8  | 5.31  |
-| [Hy Token Plan Lite](https://console.cloud.tencent.com/tokenhub/tokenplan) (hy4 更新于 2026-11-4)|  ￥28   | 每订阅月 560 积分，约 70 轮问答式交互 |      |         |          |    |        |           |      |   7316万   |      ￥112       |  4   |
+| <img src="assets/icons/minimax.svg" width="16" height="16" alt="MiniMax" /> [MiniMax M Plan Go](https://www.minimax.cn/m-plan) （minimax-m3.1-flash 更新于 2026-11-25）      |  ￥49.00   | 更多用量 | / |   4939.65 万  |  $0.97  |  0.133   |   4.94亿    |     $9.7     |   1.33   |  19.76亿  | $38.8  | 5.31  |
+| <img src="assets/icons/hunyuan.svg" width="16" height="16" alt="Hunyuan" /> [Hy Token Plan Lite](https://console.cloud.tencent.com/tokenhub/tokenplan) (hy4 更新于 2026-11-4)|  ￥28   | 每订阅月 560 积分，约 70 轮问答式交互 |      |         |          |    |        |           |      |   7316万   |      ￥112       |  4   |
 | [Xiaomi MiMo Token Plan Pro](https://platform.xiaomimimo.com/#/token-plan) (mimo-v2.5-pro)|  ￥329.00   | 380亿 Credits 套餐月总量 |   46.7   |         |          |    |        |           |      |   13亿   |      ￥381       |  1.12   |
 
 
